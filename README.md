@@ -11,6 +11,8 @@ Skype: suportecavalcante
 
 Para informações de uso, verifique o arquivo LEIA-ME.txt
 
-![Download via AWS](relative/path/to/img.jpg?raw=true "Title")
-
-![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.change01.png)
+# INSTALL
+![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.install01.png)\
+![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.install02.png)\
+![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.install03.png)\
+![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.install04.png)
