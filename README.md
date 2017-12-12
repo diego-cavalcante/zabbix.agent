@@ -13,4 +13,4 @@ Para informações de uso, verifique o arquivo LEIA-ME.txt
 
 ![Download via AWS](relative/path/to/img.jpg?raw=true "Title")
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.change01.png)
