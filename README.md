@@ -10,3 +10,7 @@ E-Mail: diego@suportecavalcante.com.br\
 Skype: suportecavalcante
 
 Para informações de uso, verifique o arquivo LEIA-ME.txt
+
+![Download via AWS](relative/path/to/img.jpg?raw=true "Title")
+
+![alt tag](http://url/to/img.png)
