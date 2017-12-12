@@ -9,7 +9,8 @@ Script: agent.zabbix.ps1\
 Versão: 1.9\
 Linguagem: Powershell\
 E-Mail: diego@suportecavalcante.com.br\
-Skype: suportecavalcante
+Skype: suportecavalcante\
+[Download via AWS](https://s3-sa-east-1.amazonaws.com/suportecavalcante.com.br/downloads/zabbix/agent.zabbix.zip)
 
 Para informações de uso, verifique o arquivo LEIA-ME.txt
 
