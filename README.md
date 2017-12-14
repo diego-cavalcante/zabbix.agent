@@ -1,6 +1,6 @@
 ![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.jpg)
 
-1º O Script tem como função dar interatividade na instalação do Zabbix Agent.\
+1º O Script tem como função dar interatividade na instalação do Zabbix Agent em ambientes Windows.\
 2º Oferecer opções de remoção total, upgrade e downgrade de versão de forma simples e interativa.\
 3º Fornece ao Administrador um padrão unificado de instalação do Zabbix Agent, facilitando upgrades/downgrades.
 
