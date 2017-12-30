@@ -34,9 +34,9 @@ Fornece ao Administrador um padrão unificado de instalação do Zabbix Agent, f
 
 # ° VALIDAÇÕES EXECUTADAS
 
-# S.O                               ARQUITERURA      POWERSHELL\
-_________________________________   ___________      __________\
-Windows Server 2003 R2              x64              1.0\
+S.O                                 ARQUITERURA      POWERSHELL
+_________________________________   ___________      __________
+Windows Server 2003 R2              x64              1.0
 Windows Server 2012 Standard        x64              3.0\
 Windows Server 2016 Standard        x64              4.0\
 Windows Server 2008 Datacenter      x64              2.0\
