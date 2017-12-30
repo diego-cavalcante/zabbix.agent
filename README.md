@@ -51,3 +51,5 @@ Fornece ao Administrador um padrão unificado de instalação do Zabbix Agent, f
 ![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.change02.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.change03.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.change04.png)
+
+# ° FIM
