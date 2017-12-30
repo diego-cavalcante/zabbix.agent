@@ -32,20 +32,6 @@ Fornece ao Administrador um padrão unificado de instalação do Zabbix Agent, f
 ° 3.2.x = 3.2.0 até 3.2.11\
 ° 3.0.x = 3.0.0 até 3.0.14
 
-# ° VALIDAÇÕES EXECUTADAS
-
-S.O                                 ARQUITERURA      POWERSHELL
-_________________________________   ___________      __________
-Windows Server 2003 R2              x64              1.0
-Windows Server 2012 Standard        x64              3.0\
-Windows Server 2016 Standard        x64              4.0\
-Windows Server 2008 Datacenter      x64              2.0\
-Windows Server 2008 R2 Enterprise   x64              2.0, 4.0\
-Windows Server 2008 R2 Fundation    x64              4.0\
-Windows 7 Ultimate                  x64              2.0\
-Windows 7 Profissional              x86              2.0\
-Windows 10 Ultimate                 x64              4.0
-
 # ° INSTALAÇÃO
 
 ![alt tag](https://github.com/suportecavalcante/zabbix.agent/blob/master/screenshots/zabbix.agent.install01.png)
