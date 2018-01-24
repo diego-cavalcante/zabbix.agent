@@ -4,7 +4,7 @@ Desenvolvido por Diego Cavalcante\
 Script: agent.zabbix.ps1\
 Linguagem: Powershell\
 E-Mail: diego@suportecavalcante.com.br\
-Skype: suportecavalcante\
+Telegram: @diego_cavalcante\
 Download: [Baixar via AWS](https://s3-sa-east-1.amazonaws.com/suportecavalcante.com.br/downloads/zabbix/agent.zabbix.zip)\
 OBS: Para detalhes sobre o uso, consulte o arquivo LEIA-ME.pdf
 
