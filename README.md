@@ -28,7 +28,7 @@ Fornece ao Administrador um padrão unificado de instalação do Zabbix Agent, f
 
 # ° VERSÕES DO ZABBIX AGENT SUPORTADAS
 
-° 3.4.x = 3.4.0 até 3.4.5\
+° 3.4.x = 3.4.0 até 3.4.6\
 ° 3.2.x = 3.2.0 até 3.2.11\
 ° 3.0.x = 3.0.0 até 3.0.14
 
