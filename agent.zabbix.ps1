@@ -1,7 +1,7 @@
 ﻿# Desenvolvido por Diego Cavalcante - 29/08/2017
 # Script: agent.zabbix.ps1
 # E-Mail: diego@suportecavalcante.com.br
-# Skype: suportecavalcante
+# Telegram: @diego_cavalcante
 # Contribuição: Mário Alves - marioalves_2009@uninove.edu.br ( Instalação via compartilhamento de rede e validações )
 #
 # Criação = Versão 1.0.0 29/08/2017 (Script Básico de instalação do Zabbix Agent).
